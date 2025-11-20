@@ -50,16 +50,15 @@
 
 <h2>About Me</h2>
 
-I’m a frontend engineer who enjoys building and maintaining production eCommerce sites and web applications.
-I work primarily with **React**, **Next.js**, and **TypeScript**, with a focus on performance, accessibility, and clear, predictable user experiences.
+I’m a frontend engineer focused on eCommerce, currently working at <strong>Fender Musical Instruments Corporation</strong>. Most of my day is spent building shared React/TypeScript components and features for multi-brand storefronts like Fender, Jackson, and PreSonus. Recently, I was part of the replatform effort from SFCC to Shopify + Contentful, delivered under a tight deadline and helping reduce platform costs by seven figures.
 
-I’m part of the engineering team at **Fender Musical Instruments Corporation**, where I help design and deliver eCommerce features that support musicians worldwide.
+Outside of work, I’m building <strong>Inky</strong>—an AI-assisted children’s story engine I started as a side project with my son. It began as a way to make reading more engaging for him and has turned into a place where I experiment with product thinking, UX, and AI in a very practical, human way.
 
-Before I transitioned into software full time, I spent over a decade as a professional musician and Army Bandsman. That background influences how I work—preparation, collaboration, and consistency matter as much as code.
+Before I moved into software full time, I spent many years as a professional musician and U.S. Army National Guard Bandsman, and later worked in operations and commercial production (including Super Bowl campaigns). That background has a lot to do with how I approach engineering today: prepared, calm under pressure, and focused on communicating clearly with the people I work with.
 
-- Main stack: **React, TypeScript, Next.js, Shopify, Contentful**
-- Location: **Boise, ID area** (remote/remote-friendly)
-- Contact: **justin@tsugranes.com**
+- Main stack: <strong>React, TypeScript, Next.js, Shopify, Contentful</strong>  
+- Location: <strong>Boise, ID area</strong>
+- Contact: <strong>justin@tsugranes.com</strong>
 
 <br />
 
