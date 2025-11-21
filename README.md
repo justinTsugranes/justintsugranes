@@ -50,15 +50,11 @@
 
 <h2>About Me</h2>
 
-I’m a frontend engineer focused on eCommerce, currently working at <strong>Fender Musical Instruments Corporation</strong>. Most of my day is spent building shared React/TypeScript components and features for multi-brand storefronts like Fender, Jackson, and PreSonus. Recently, I was part of the replatform effort from SFCC to Shopify + Contentful, delivered under a tight deadline and helping reduce platform costs by seven figures.
+I’m a Frontend Engineer at <strong>Fender Musical Instruments Corporation</strong>, working on multi-brand eCommerce for sites like Fender, Jackson, and PreSonus. I spend most of my time in React, TypeScript, Shopify, and Contentful, building shared components and features that support global storefronts.
 
-Outside of work, I’m building <strong>Inky</strong>—an AI-assisted children’s story engine I started as a side project with my son. It began as a way to make reading more engaging for him and has turned into a place where I experiment with product thinking, UX, and AI in a very practical, human way.
+I’ve been playing Fender instruments since I was a kid, so getting to work on the digital side of the brand now is very much a full-circle experience.
 
-Before I moved into software full time, I spent many years as a professional musician and U.S. Army National Guard Bandsman, and later worked in operations and commercial production (including Super Bowl campaigns). That background has a lot to do with how I approach engineering today: prepared, calm under pressure, and focused on communicating clearly with the people I work with.
-
-- Main stack: <strong>React, TypeScript, Next.js, Shopify, Contentful</strong>  
-- Location: <strong>Boise, ID area</strong>
-- Contact: <strong>justin@tsugranes.com</strong>
+Before engineering, I spent about 20 years as a professional musician and 13 years as a guitarist in the U.S. Army National Guard Band, alongside roles in operations and commercial production, including work on Super Bowl campaigns.
 
 <br />
 
