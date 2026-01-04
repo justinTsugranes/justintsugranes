@@ -9,9 +9,9 @@
   <h3>Frontend Engineer · eCommerce · React & TypeScript</h3>
 
   <p>
-    <a href="https://www.justintsugranes.com" target="_blank" rel="noreferrer">Portfolio</a>
+    <a href="https://www.tsugranes.com" target="_blank" rel="noreferrer">Site</a>
     &nbsp;•&nbsp;
-    <a href="https://tsugranes.com" target="_blank" rel="noreferrer">Projects</a>
+    <a href="https://www.tsugranes.com/projects" target="_blank" rel="noreferrer">Projects</a>
     &nbsp;•&nbsp;
     <a href="mailto:justin@tsugranes.com">Email</a>
   </p>
@@ -50,19 +50,22 @@
 
 <h2>About Me</h2>
 
-I'm a Frontend Engineer at <strong>Fender Musical Instruments Corporation</strong>, working on multi-brand eCommerce for sites like Fender, Jackson, and PreSonus. I spend most of my time in React, TypeScript, Shopify, and Contentful, building shared components and features that support global storefronts.
+I'm a Frontend Engineer at <strong>Fender Musical Instruments Corporation</strong>, working on multi-brand eCommerce for sites like Fender, Jackson, and PreSonus. I spend most of my time in React, TypeScript, Shopify, and Contentful, building shared components and features that support global storefronts and help the business move faster without sacrificing stability.
+
+Recently, I helped replatform several brands from SFCC to a Shopify & Contentful stack, contributing to meaningful platform cost reductions and a more flexible foundation for future development.
 
 I've been playing Fender instruments since I was a kid, so getting to work on the digital side of the brand now is very much a full-circle experience.
 
-Before engineering, I spent about 20 years as a professional musician and 13 years as a guitarist in the U.S. Army National Guard Band, alongside roles in operations and commercial production, including work on Super Bowl campaigns.
+Before engineering, I spent 13 years as a guitarist in the U.S. Army National Guard Band, alongside roles in operations and commercial production—experience that shows up in my work as calm execution, clear communication, and comfort taking responsibility when stakes and timelines are high.
 
 <br />
 
 <h3>Currently</h3>
 
-- Building and improving customer-facing eCommerce features.
-- Refining frontend architecture and developer experience in React/TypeScript.
-- Keeping a healthy balance between modern tooling and long-term maintainability.
+- Building and maintaining multi-brand eCommerce storefronts using React, TypeScript, Shopify, and Contentful
+- Developing shared component libraries and features that support global storefronts, improving development velocity and consistency
+- Contributing to platform architecture decisions that balance modern tooling with long-term maintainability
+- Implementing new features and ensuring seamless operation of e-commerce sites for a global customer base
 
 <br />
 
