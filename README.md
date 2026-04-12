@@ -1,148 +1,119 @@
 <div id="header" align="center">
-  <a href="https://www.justintsugranes.com" target="_blank" rel="noreferrer">
-    <img src="banner.png" width="100%" alt="Justin Tsugranes banner" />
+  <a href="https://www.justintsugranes.dev" target="_blank" rel="noreferrer">
+    <img src="banner.png" width="100%" alt="Justin Tsugranes" />
   </a>
 </div>
 
 <div align="center">
-  <h1>Hi, I'm Justin</h1>
-  <h3>Frontend Engineer · eCommerce · React & TypeScript</h3>
+  <h1>Justin Tsugranes</h1>
+  <h3>Full-Stack Engineer &nbsp;·&nbsp; AI Systems &nbsp;·&nbsp; Founder, Total Ventures</h3>
 
   <p>
-    <a href="https://www.tsugranes.com" target="_blank" rel="noreferrer">Site</a>
+    <a href="https://www.justintsugranes.dev" target="_blank" rel="noreferrer">Site</a>
     &nbsp;•&nbsp;
-    <a href="https://www.tsugranes.com/projects" target="_blank" rel="noreferrer">Projects</a>
+    <a href="https://www.justintsugranes.dev/projects" target="_blank" rel="noreferrer">Projects</a>
     &nbsp;•&nbsp;
-    <a href="mailto:justin@tsugranes.com">Email</a>
+    <a href="mailto:hello@justintsugranes.dev">Email</a>
   </p>
 </div>
 
 <div id="badges" align="center">
-  <p>
-    <a href="https://www.linkedin.com/in/justintsugranes/">
-      <img
-        src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
-        alt="LinkedIn Badge"
-      />
-    </a>
-    &nbsp;
-    <a href="https://twitter.com/justintsugranes">
-      <img
-        src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
-        alt="Twitter Badge"
-      />
-    </a>
-  </p>
+  <a href="https://www.linkedin.com/in/justintsugranes/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+  &nbsp;
+  <a href="https://x.com/justintsugranes">
+    <img
+      src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"
+      alt="X"
+    />
+  </a>
 </div>
 
-<div id="viewcount" align="center">
+<div align="center">
   <img
     src="https://komarev.com/ghpvc/?username=justintsugranes&style=flat-square&color=blue"
     alt="GitHub profile views"
   />
-  <img
-    src="https://img.shields.io/freecodecamp/points/justintsugranes"
-    alt="freeCodeCamp points"
-  />
 </div>
 
 <br />
 
-<h2>About Me</h2>
+## About
 
-I'm a Frontend Engineer at <strong>Fender Musical Instruments Corporation</strong>, working on multi-brand eCommerce for sites like Fender, Jackson, and PreSonus. I spend most of my time in React, TypeScript, Shopify, and Contentful, building shared components and features that support global storefronts and help the business move faster without sacrificing stability.
+I run [Total Ventures](https://totalventures.io), a product studio where I build digital products on shared AI infrastructure.
 
-Recently, I helped replatform several brands from SFCC to a Shopify & Contentful stack, contributing to meaningful platform cost reductions and a more flexible foundation for future development.
+I built [Inky](https://inkyverse.io) because I wanted better bedtime stories for my 2-year-old son. It's now a production AI platform — native iOS app, Gemini-powered story generation, word-level narration, global story library. That's roughly how I approach most things.
 
-I've been playing Fender instruments since I was a kid, so getting to work on the digital side of the brand now is very much a full-circle experience.
+Previously a frontend engineer at Fender, where I shipped multi-brand eCommerce across Fender, Jackson, and PreSonus — and built LEO, an internal Claude-powered CLI that automated Jira workflows end-to-end. 13-year Army veteran.
 
-Before engineering, I spent 13 years as a guitarist in the U.S. Army National Guard Band, alongside roles in operations and commercial production—experience that shows up in my work as calm execution, clear communication, and comfort taking responsibility when stakes and timelines are high.
-
-<br />
-
-<h3>Currently</h3>
-
-- Building and maintaining multi-brand eCommerce storefronts using React, TypeScript, Shopify, and Contentful
-- Developing shared component libraries and features that support global storefronts, improving development velocity and consistency
-- Contributing to platform architecture decisions that balance modern tooling with long-term maintainability
-- Implementing new features and ensuring seamless operation of e-commerce sites for a global customer base
+Open to engineering roles at small teams moving fast.
 
 <br />
 
-<h3>Outside of Tech</h3>
+## What I'm Building
 
-When I'm not writing code, I'm usually:
+**[Inky](https://inkyverse.io)** — AI storytelling app for kids. iOS + web + Firebase. Multi-stage Gemini + Imagen 4 pipeline, SwiftUI with word-level narration, RevenueCat + Stripe.
 
-- spending time with family
-- playing guitar and writing music
-- learning how to sail
-- playing backgammon
-- shooting photos
-- going to live shows and events
-- hiking, camping, backpacking, trail-running, or road-tripping
-- working through non-fiction books, audiobooks, podcasts, and standup comedy
-- snorkeling/diving whenever I get the chance
+**[Pregnancy Power Hour](https://pregnancypowerhour.com)** — Consulting platform with a Claude-powered content pipeline. One video becomes a week of content: blog, newsletter, social, email sequences.
 
-Thanks for stopping by.
+**[Total Formula 1 World](https://totalformula1world.com)** — Automated media property. RSS → Gemini summarization → AdSense-monetized site + newsletter. Blueprint for a scalable content network.
+
+**VERA** — Production multi-agent engineering system. 24 custom skills, 4 specialist agents, Go CLI managing deployments, analytics, ads, and finance from a single terminal binary.
 
 <br />
 
-<h2>On This GitHub</h2>
+## On This GitHub
 
-Here you'll find:
-
-- **Frontend experiments** – small apps and components built with React/Next.js.
-- **eCommerce-related projects** – demos exploring product browsing, carts, and CMS integrations.
-- **Learning projects** – things created while exploring APIs, patterns, or new frameworks.
-- **Odds and ends** – small utilities or ideas that were worth saving.
-
-If you have questions or want context on a repo, feel free to open an issue or reach out.
+Most of Total Ventures runs in a private monorepo — Turborepo, pnpm, 11 shared TypeScript packages, 14 CI workflows. Public repos here are experiments, open tooling, and things worth sharing.
 
 <br />
 
-<h2>Tech Stack</h2>
+## Tech Stack
 
-<h3>Languages</h3>
+### Languages
 
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&color=%23FFCE5A)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
+[![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://swift.org/)
 
-<h3>Frameworks, Platforms & Services</h3>
+### Frameworks & Platforms
 
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)](https://nextjs.org/)
-[![React.js](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=black&style=for-the-badge)](https://reactjs.org/)
-[![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white)](https://www.shopify.com/)
-[![Contentful](https://img.shields.io/badge/Contentful-2478CC?style=for-the-badge&logo=contentful&logoColor=white)](https://www.contentful.com/)
+[![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)](https://react.dev/)
+[![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/xcode/swiftui/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
-[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-000000?style=for-the-badge&logo=google-cloud)](https://cloud.google.com/)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 
-<h3>Backend & Data</h3>
+### AI
 
-[![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.dev/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://anthropic.com/)
+[![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)](https://gemini.google.com/)
 
-<h3>Operating System & Tools</h3>
+### Commerce & Integrations
 
-[![macOS](https://img.shields.io/badge/macOS-292e33?style=for-the-badge&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/monterey/)
-[![VS Code](https://img.shields.io/badge/VSCode-%23007ACC?style=for-the-badge&logo=Visual-studio-code)](https://code.visualstudio.com/)
-[![iTerm2](https://img.shields.io/badge/-iTerm2-black?style=for-the-badge&logo=iterm2)](https://iterm2.com/)
+[![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)](https://stripe.com/)
+[![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white)](https://www.shopify.com/)
+[![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)](https://www.sanity.io/)
+[![Contentful](https://img.shields.io/badge/Contentful-2478CC?style=for-the-badge&logo=contentful&logoColor=white)](https://www.contentful.com/)
+
+### Tools
+
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/)
-[![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)](https://prettier.io/)
-[![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint)](https://eslint.org/)
-
-<h3>UX/UI & Design</h3>
-
+[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
 [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
-[![Adobe Creative Cloud](https://img.shields.io/badge/-Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=adobe-creative-cloud)](https://www.adobe.com/creativecloud.html)
 
 <br />
 
 <div align="center">
 
-<h2>GitHub Stats</h2>
+## GitHub Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=justintsugranes&theme=github-dark-blue)](https://git.io/streak-stats)
 
@@ -159,22 +130,3 @@ If you have questions or want context on a repo, feel free to open an issue or r
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justintsugranes&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-
-<br />
-
-<div align="center">
-
-<h2>Support</h2>
-
-If you've found something here useful or interesting:
-
-<a href="https://www.buymeacoffee.com/tsugranes" target="_blank" rel="noreferrer">
-  <img
-    src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png"
-    alt="Buy Me A Coffee"
-    width="150"
-  />
-</a>
-
-</div>
-
