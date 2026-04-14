@@ -60,7 +60,7 @@ Open to engineering roles at small teams moving fast.
 
 **[Pregnancy Power Hour](https://pregnancypowerhour.com)** — Consulting platform with a Claude-powered content pipeline. One video becomes a week of content: blog, newsletter, social, email sequences.
 
-**[Total Formula 1 World](https://totalformula1world.com)** — Automated media property. RSS → Gemini summarization → AdSense-monetized site + newsletter. Blueprint for a scalable content network.
+**[The F1 Formula](https://thef1formula.com)** — Automated media property. RSS → Gemini summarization → AdSense-monetized site + newsletter. Blueprint for a scalable content network.
 
 **VERA** — Production multi-agent engineering system. 24 custom skills, 4 specialist agents, Go CLI managing deployments, analytics, ads, and finance from a single terminal binary.
 
@@ -78,7 +78,6 @@ Most of Total Ventures runs in a private monorepo — Turborepo, pnpm, 11 shared
 
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://swift.org/)
 
 ### Frameworks & Platforms
@@ -90,15 +89,19 @@ Most of Total Ventures runs in a private monorepo — Turborepo, pnpm, 11 shared
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+[![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)](https://turbo.build/)
 
 ### AI
 
 [![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://anthropic.com/)
 [![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)](https://gemini.google.com/)
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
 
 ### Commerce & Integrations
 
 [![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)](https://stripe.com/)
+[![RevenueCat](https://img.shields.io/badge/RevenueCat-F25A18?style=for-the-badge&logo=revenuecat&logoColor=white)](https://www.revenuecat.com/)
+[![Resend](https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white)](https://resend.com/)
 [![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white)](https://www.shopify.com/)
 [![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)](https://www.sanity.io/)
 [![Contentful](https://img.shields.io/badge/Contentful-2478CC?style=for-the-badge&logo=contentful&logoColor=white)](https://www.contentful.com/)
@@ -108,25 +111,3 @@ Most of Total Ventures runs in a private monorepo — Turborepo, pnpm, 11 shared
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
 [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
-
-<br />
-
-<div align="center">
-
-## GitHub Stats
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=justintsugranes&theme=github-dark-blue)](https://git.io/streak-stats)
-
-<br />
-
-<img
-  align="center"
-  src="https://github-readme-stats.vercel.app/api?username=justintsugranes&show_icons=true&locale=en&theme=dark"
-  alt="GitHub stats for justintsugranes"
-/>
-
-<br /><br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justintsugranes&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
